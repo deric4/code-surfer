@@ -22,7 +22,7 @@
     "test:watch": "tsdx test --env=jsdom -u --watch"
   },
   "dependencies": {
-    "array.prototype.flat": "^1.2.1",
+    "array.prototype.flat": "^1.2.3",
     "diff": "^4.0.1",
     "prismjs": "^1.16.0",
     "shell-quote": "^1.6.1"
