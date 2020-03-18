@@ -7,7 +7,7 @@
     "code-surfer": "3.1.0",
     "gatsby": "^2.15.28",
     "gatsby-plugin-react-helmet": "^3.1.15",
-    "gatsby-theme-mdx-deck": "^3.0.13",
+    "gatsby-theme-mdx-deck": "^4.1.0",
     "prism-react-renderer": "^1.0.2",
     "react": "^16.10.0",
     "react-dom": "^16.10.0",
