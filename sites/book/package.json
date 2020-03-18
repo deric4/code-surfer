@@ -10,7 +10,7 @@
   "dependencies": {
     "@code-surfer/standalone": "3.1.0",
     "react": "^16.9.0",
-    "react-dom": "^16.9.0",
+    "react-dom": "^16.13.0",
     "theme-ui": "^0.2.41",
     "use-spring": "^0.1.1"
   },
