@@ -29,7 +29,7 @@
     "@code-surfer/standalone": "3.1.0",
     "@types/theme-ui": "^0.2.0",
     "array.prototype.flat": "^1.2.1",
-    "diff": "^4.0.1",
+    "diff": "^4.0.2",
     "prismjs": "^1.16.0",
     "rebound": "^0.1.0",
     "shell-quote": "^1.6.1",
