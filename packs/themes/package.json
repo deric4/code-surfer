@@ -27,7 +27,7 @@
     "theme-ui": "^0.2.41"
   },
   "devDependencies": {
-    "@types/theme-ui": "^0.2.3",
+    "@types/theme-ui": "^0.3.1",
     "tsdx": "^0.7.2",
     "tslib": "^1.10.0",
     "typescript": "^3.5.2"
