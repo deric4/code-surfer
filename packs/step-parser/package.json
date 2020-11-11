@@ -23,7 +23,7 @@
   },
   "dependencies": {
     "array.prototype.flat": "^1.2.1",
-    "diff": "^4.0.1",
+    "diff": "^5.0.0",
     "prismjs": "^1.16.0",
     "shell-quote": "^1.6.1"
   },
