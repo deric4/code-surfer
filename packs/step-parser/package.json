@@ -33,7 +33,7 @@
     "@types/prismjs": "^1.16.0",
     "tsdx": "^0.7.2",
     "tslib": "^1.10.0",
-    "typescript": "^3.5.2"
+    "typescript": "^3.9.9"
   },
   "jest": {
     "testMatch": [
